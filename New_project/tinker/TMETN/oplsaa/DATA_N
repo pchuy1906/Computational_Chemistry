@@ -1,0 +1,49 @@
+atom        847  107    NM    "Tertiary Amide -CO-NR2"       7    14.007    3
+atom        843   24    N     "N-Phenyl Urea N"              7    14.007    3
+atom        840   24    N     "N-Ph Sulfonamide -NHPh"       7    14.007    3
+atom        823   24    N     "Hydroxamic Acid N"            7    14.007    3
+atom        817   24    N     "N-Me,N-PhAcetamide N"         7    14.007    3
+atom         78   44    NT    "Ammonia NH3"                  7    14.007    3
+atom        768  105    N*    "U & T Nucleoside N1"          7    14.007    3
+atom        767  105    N*    "C Nucleoside N1"              7    14.007    3
+atom        766  105    N*    "A & G Nucleoside N9"          7    14.007    3
+atom        732   44    NT    "Amine R3N"                    7    14.007    3
+atom        731   44    NT    "Amine R2NH"                   7    14.007    3
+atom        730   44    NT    "Amine RNH2"                   7    14.007    3
+atom        728   24    N     "Nitrate Ion NO3-"             7    14.007    3
+atom        708  102    NO    "Nitrobenzene -NO2"            7    14.007    3
+atom        701  102    NO    "Nitroalkane -NO2"             7    14.007    3
+atom        692  101    NY    "Neutral ARG N2 (H2N-C)"       7    14.007    3
+atom        690  101    NY    "Neutral ARG NE"               7    14.007    3
+atom        684   55    N2    "Benzamidine -NH2"             7    14.007    3
+atom        598   57    NA    "1-Methylimidazole N1"         7    14.007    3
+atom        569   57    NA    "Purine N9"                    7    14.007    3
+atom         54   24    N     "DMF CON< (UA)"                7    14.007    3
+atom        528   57    NA    "Indole N1"                    7    14.007    3
+atom        498   57    NA    "Imidazole N1"                 7    14.007    3
+atom        489   57    NA    "Pyrazole N1"                  7    14.007    3
+atom        483   57    NA    "Pyrrole N"                    7    14.007    3
+atom        453   57    NA    "HIP ND & NE"                  7    14.007    3
+atom        444   57    NA    "TRP NE, HID ND & HIE NE"      7    14.007    3
+atom        421   24    N     "Sulfonamide -SO2NHR"          7    14.007    3
+atom        419   24    N     "Sulfonamide -SO2NH2"          7    14.007    3
+atom        329   55    N2    "CytosineH+ NH2-"              7    14.007    3
+atom        322   57    NA    "CytosineH+ N3"                7    14.007    3
+atom        320   57    NA    "CytosineH+ N1"                7    14.007    3
+atom        311   55    N2    "Guanine NH2-"                 7    14.007    3
+atom        304   57    NA    "Guanine N1"                   7    14.007    3
+atom        299   55    N2    "Adenine NH2-"                 7    14.007    3
+atom        284   55    N2    "Cytosine NH2-"                7    14.007    3
+atom        276   57    NA    "Cytosine N1"                  7    14.007    3
+atom        264   57    NA    "Uracil & Thymine N3"          7    14.007    3
+atom        262   57    NA    "Uracil & Thymine N1"          7    14.007    3
+atom        256   55    N2    "Diaminopyridine -NH2"         7    14.007    3
+atom        246   55    N2    "Guanidinium -NHR"             7    14.007    3
+atom        243   55    N2    "Guanidinium -NH2"             7    14.007    3
+atom        207   24    N     "N-Phenylacetamide N"          7    14.007    3
+atom        193   24    N     "Imide -NH-"                   7    14.007    3
+atom        191   24    N     "Urea -NH2"                    7    14.007    3
+atom        181   24    N     "Amide -CO-NR2"                7    14.007    3
+atom        180   24    N     "Amide -CO-NHR"                7    14.007    3
+atom        179   24    N     "Amide -CO-NH2"                7    14.007    3
+

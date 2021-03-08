@@ -1,0 +1,29 @@
+atom         96    5    OH    "Alcohol -OH"                  8    15.999    2
+atom        825    5    OH    "Hydroxamic Acid OH"           8    15.999    2
+atom        814   20    OS    "Trifluoroanisole -OCF3"       8    15.999    2
+atom         76   42    OW    "SPC Water O"                  8    15.999    2
+atom        721   20    OS    "GTP O-(POn)2"                 8    15.999    2
+atom        714   20    OS    "Propylene Carbonate C-O"      8    15.999    2
+atom         68   34    OW    "TIP3F Water O"                8    15.999    2
+atom         63   31    OW    "TIP3P Water O"                8    15.999    2
+atom          5    5    OH    "Acetic Acid -OH (UA)"         8    15.999    2
+atom        520   20    OS    "Isoxazole O"                  8    15.999    2
+atom        512   20    OS    "Oxazole O"                    8    15.999    2
+atom        507   20    OS    "Furan O"                      8    15.999    2
+atom        414   20    OS    "Phenyl Ester -OPh"            8    15.999    2
+atom         41   20    OS    "Ether ROR (UA)"               8    15.999    2
+atom        408   20    OS    "Ester CO-O-R"                 8    15.999    2
+atom        380   20    OS    "GTP O-(POn)2"                 8    15.999    2
+atom        338   20    OS    "DiMePhosphate CH3-O (UA)"     8    15.999    2
+atom        211    5    OH    "Carboxylic Acid -OH"          8    15.999    2
+atom         20    5    OH    "Alcohol OH (UA)"              8    15.999    2
+atom        129    5    OH    "Hemiacetal -OH"               8    15.999    2
+atom        128   20    OS    "Acetal RO-CR2OX"              8    15.999    2
+atom        122   20    OS    "Dialkyl Ether -O-"            8    15.999    2
+atom        121   20    OS    "Anisole -OCH3"                8    15.999    2
+atom        119   20    OS    "Diphenyl Ether"               8    15.999    2
+atom        113    5    OH    "Triol -OH"                    8    15.999    2
+atom        111    5    OH    "Diol -OH"                     8    15.999    2
+atom        109    5    OH    "Phenol -OH"                   8    15.999    2
+atom        104    5    OH    "Trifluoroethanol -OH"         8    15.999    2
+

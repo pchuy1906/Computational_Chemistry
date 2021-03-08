@@ -1,0 +1,24 @@
+atom         58   36    O     "Methyl Ether O"               8    15.999    2
+atom         52   36    O     "isoPropanol O"                8    15.999    2
+atom         42   36    O     "Ethanol O"                    8    15.999    2
+atom         38   36    O     "Methanol O"                   8    15.999    2
+atom         36   34    O     "Water O"                      8    15.999    2
+atom        248   36    O     "p-Cresol OH"                  8    15.999    2
+atom        230   36    O     "Phenol OH"                    8    15.999    2
+atom        150   60    O     "Acetic Acid OH"               8    15.999    2
+atom        145   60    O     "Formic Acid OH"               8    15.999    2
+
+atom        331   96    O     "3-Formylindole O=C"           8    15.999    1
+atom        198   77    O     "Ethyl Sulfonate SO3-"         8    15.999    1
+atom        194   77    O     "Methyl Sulfonate SO3-"        8    15.999    1
+atom        190   73    O     "Dimethyl Sulfoxide S=O"       8    15.999    1
+atom        160   55    O     "Acetaldehyde O=C"             8    15.999    1
+atom        157   55    O     "Formaldehyde O=C"             8    15.999    1
+atom        153   55    O     "Acetic Acid O=C"              8    15.999    1
+atom        148   55    O     "Formic Acid O=C"              8    15.999    1
+atom        139   55    O     "DiMeAcetamide O"              8    15.999    1
+atom        134   55    O     "DiMeFormamide O"              8    15.999    1
+atom        125   55    O     "NMeAcetamide O"               8    15.999    1
+atom        116   55    O     "NMeFormamide O"               8    15.999    1
+atom        105   55    O     "Acetamide O"                  8    15.999    1
+atom        101   55    O     "Formamide O"                  8    15.999    1

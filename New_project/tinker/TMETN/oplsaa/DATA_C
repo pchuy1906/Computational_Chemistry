@@ -1,0 +1,220 @@
+atom         99   13    CT    "Alcohol CH3OH & RCH2OH"       6    12.011    4
+atom         94   13    CT    "Ethyl Benzene -CH2-"          6    12.011    4
+atom         93   13    CT    "Ethyl Benzene CH3-"           6    12.011    4
+atom        906   13    CT    "N-Me-HIS CB"                  6    12.011    4
+atom        891   13    CT    "Ammonium R3C-NR3+"            6    12.011    4
+atom        890   13    CT    "Ammonium R2CH-NR3+"           6    12.011    4
+atom        889   13    CT    "Ammonium RCH2-NR3+"           6    12.011    4
+atom        888   13    CT    "Ammonium CH3-NR3+"            6    12.011    4
+atom        874   13    CT    "Alkyl Silane R3C-Si"          6    12.011    4
+atom        873   13    CT    "Alkyl Silane R2CH-Si"         6    12.011    4
+atom        872   13    CT    "Alkyl Silane RCH2-Si"         6    12.011    4
+atom        871   13    CT    "Methyl Silane CH3-Si"         6    12.011    4
+atom        865   13    CT    "B3-Peptide CE PRO N-Ter"      6    12.011    4
+atom        864   13    CT    "B3-Peptide CB PRO N-Ter"      6    12.011    4
+atom        863   13    CT    "B3-Peptide CB GLY N-Ter"      6    12.011    4
+atom        862   13    CT    "B3-Peptide CB ALA N-Ter"      6    12.011    4
+atom        861   13    CT    "B3-Peptide CA C-Ter"          6    12.011    4
+atom        860   13    CT    "B3-Pep CB PRO Main/C-Ter"     6    12.011    4
+atom        859   13    CT    "B3-Pep CB ALA Main/C-Ter"     6    12.011    4
+atom        858   13    CT    "B3-Pep CB GLY Main/C-Ter"     6    12.011    4
+atom        857   13    CT    "B3-Peptide CA Main/N-Ter"     6    12.011    4
+atom        856   13    CT    "B2-Peptide CA"                6    12.011    4
+atom        851   13    CT    "Tertiary Amide -NRCR3"        6    12.011    4
+atom        850   13    CT    "Tertiary Amide -NRCHR2"       6    12.011    4
+atom        849   13    CT    "Tertiary Amide -NRCH2R"       6    12.011    4
+atom        848   13    CT    "Tertiary Amide -NRCH3"        6    12.011    4
+atom         84   13    CT    "Alkane >C<"                   6    12.011    4
+atom        837   13    CT    "Alkyl Iodide R3C-I"           6    12.011    4
+atom        836   13    CT    "Alkyl Iodide R2CH-I"          6    12.011    4
+atom        835   13    CT    "Alkyl Iodide RCH2-I"          6    12.011    4
+atom         83   13    CT    "Methane CH4"                  6    12.011    4
+atom        828   13    CT    "Benzyl Ether -CR2OR"          6    12.011    4
+atom        827   13    CT    "Benzyl Ether -CHROR"          6    12.011    4
+atom         82   13    CT    "Alkane >CH-"                  6    12.011    4
+atom        819   13    CT    "Benzyl Amine -CH2NR2"         6    12.011    4
+atom        815   13    CT    "Trifluoroanisole -OCF3"       6    12.011    4
+atom         81   13    CT    "Alkane -CH2-"                 6    12.011    4
+atom        809   13    CT    "Alkyl Bromide R3C-Br"         6    12.011    4
+atom        808   13    CT    "Alkyl Bromide R2CH-Br"        6    12.011    4
+atom        806   13    CT    "Alkyl Bromide RCH2-Br"        6    12.011    4
+atom        804   13    CT    "Alkyl Chloride R3C-Cl"        6    12.011    4
+atom        803   13    CT    "Alkyl Chloride R2CH-Cl"       6    12.011    4
+atom         80   13    CT    "Alkane CH3-"                  6    12.011    4
+atom        801   13    CT    "Alkyl Chloride RCH2-Cl"       6    12.011    4
+atom        799   13    CT    "Chloroacetate ClCH2-COO-"     6    12.011    4
+atom        798   13    CT    "Fluoroacetate FCH2-COO-"      6    12.011    4
+atom        796   13    CT    "DifluoroMeBenzene -CHF2"      6    12.011    4
+atom        794   13    CT    "Tetrafluoromethane CF4"       6    12.011    4
+atom        793   13    CT    "Perfluoroalkane >CF-"         6    12.011    4
+atom        792   13    CT    "Perfluoroalkane -CF2-"        6    12.011    4
+atom        791   13    CT    "Perfluoroalkane CF3-"         6    12.011    4
+atom        790   13    CT    "Alkyl Fluoride R3C-F"         6    12.011    4
+atom        789   13    CT    "Alkyl Fluoride R2CH-F"        6    12.011    4
+atom        787   13    CT    "Alkyl Fluoride RCH2-F"        6    12.011    4
+atom        781   13    CT    "GLY Zwitterion CA"            6    12.011    4
+atom        775   13    CT    "Ammonium R3C-NHR2+"           6    12.011    4
+atom        774   13    CT    "Ammonium R2CH-NHR2+"          6    12.011    4
+atom        773   13    CT    "Ammonium RCH2-NHR2+"          6    12.011    4
+atom        772   13    CT    "Ammonium CH3-NHR2+"           6    12.011    4
+atom        763   51    CO    "U & T Sugar C1'"              6    12.011    4
+atom        762   51    CO    "C Sugar C1'"                  6    12.011    4
+atom        761   51    CO    "A & G Sugar C1'"              6    12.011    4
+atom        754   13    CT    "Benzyl Amine -CH2NHR"         6    12.011    4
+atom        753   13    CT    "Benzyl Sulfide -CH2SH"        6    12.011    4
+atom        752   13    CT    "Benzyl Ether -CH2OR"          6    12.011    4
+atom        751   13    CT    "Benzyl Amine -CR2NH2"         6    12.011    4
+atom        750   13    CT    "Benzyl Amine -CHRNH2"         6    12.011    4
+atom        749   13    CT    "Benzyl Amine -CH2NH2"         6    12.011    4
+atom        745   13    CT    "Amine R2CH-NR2"               6    12.011    4
+atom        744   13    CT    "Amine R2CH-NHR"               6    12.011    4
+atom        743   13    CT    "Amine R3C-NH2"                6    12.011    4
+atom        742   13    CT    "Amine R2CH-NH2"               6    12.011    4
+atom        738   13    CT    "Amine RCH2-NR2"               6    12.011    4
+atom        737   13    CT    "Amine RCH2-NHR"               6    12.011    4
+atom        736   13    CT    "Amine RCH2-NH2"               6    12.011    4
+atom        735   13    CT    "Amine CH3-NR2"                6    12.011    4
+atom        734   13    CT    "Amine CH3-NHR"                6    12.011    4
+atom        733   13    CT    "Amine CH3-NH2"                6    12.011    4
+atom        724   13    CT    "Phosphonium RCH2-PR3+"        6    12.011    4
+atom        723   13    CT    "Phosphonium CH3-PR3+"         6    12.011    4
+atom        717   13    CT    "Propylene Carbonate CH3"      6    12.011    4
+atom        716   13    CT    "Propylene Carbonate CH"       6    12.011    4
+atom        715   13    CT    "Propylene Carbonate CH2"      6    12.011    4
+atom        707   13    CT    "Nitroalkane R3C-NO2"          6    12.011    4
+atom        706   13    CT    "Nitroalkane R2CH-NO2"         6    12.011    4
+atom        705   13    CT    "Nitroalkane RCH2-NO2"         6    12.011    4
+atom        703   13    CT    "Nitromethane CH3-NO2"         6    12.011    4
+atom        699   13    CT    "Alkyl Nitrile R3C-CN"         6    12.011    4
+atom        698   13    CT    "Alkyl Nitrile R2CH-CN"        6    12.011    4
+atom        697   13    CT    "Alkyl Nitrile RCH2-CN"        6    12.011    4
+atom        696   13    CT    "Acetonitrile CH3-CN"          6    12.011    4
+atom        689   13    CT    "Neutral ARG CD"               6    12.011    4
+atom        688   13    CT    "Neutral MeGdn CH3-"           6    12.011    4
+atom        674   91    CY    "cProp/cBut Benzene C-Ar"      6    12.011    4
+atom        666   13    CT    "TrifluoroMeBenzene CF3-"      6    12.011    4
+atom        654   91    CY    "Cyclopropane -CR2-"           6    12.011    4
+atom        653   91    CY    "Cyclopropane -CHR-"           6    12.011    4
+atom        652   91    CY    "Cyclopropane -CH2-"           6    12.011    4
+atom        642   13    CT    "t-Butyl Cation CH3-"          6    12.011    4
+atom        630   13    CT    "3-Me Indole CH3"              6    12.011    4
+atom        629   91    CY    "Penicillin CH-CO"             6    12.011    4
+atom        628   91    CY    "Penicillin CH-N"              6    12.011    4
+atom        622   13    CT    "2-Et Furan CH2"               6    12.011    4
+atom        621   13    CT    "2-Me Furan CH3"               6    12.011    4
+atom        620   13    CT    "2-Et Pyrrole CH2"             6    12.011    4
+atom        619   13    CT    "2-Me Pyrrole CH3"             6    12.011    4
+atom        618   13    CT    "2-Et Pyrazine CH2"            6    12.011    4
+atom        617   13    CT    "2-Me Pyrazine CH3"            6    12.011    4
+atom        616   13    CT    "4-Et Pyrimidine CH2"          6    12.011    4
+atom        615   13    CT    "4-Me Pyrimidine CH3"          6    12.011    4
+atom        614   13    CT    "3-Et Pyridazine CH2"          6    12.011    4
+atom        613   13    CT    "3-Me Pyridazine CH3"          6    12.011    4
+atom        612   13    CT    "2-Et Pyridine CH2"            6    12.011    4
+atom        611   13    CT    "2-Me Pyridine CH3"            6    12.011    4
+atom        610   13    CT    "1-MeO-Me-Imidazole CH2"       6    12.011    4
+atom        609   13    CT    "1-iPr Imidazole R2CH-"        6    12.011    4
+atom        608   13    CT    "1-Et Imidazole RCH2-"         6    12.011    4
+atom        603   13    CT    "1-Methylimidazole CH3-"       6    12.011    4
+atom        586   13    CT    "Serotonin CH2 on C3"          6    12.011    4
+atom         48   13    CT    "Carbon Tetrachloride"         6    12.011    4
+atom        457   13    CT    "t-Bu Benzene -CMe3"           6    12.011    4
+atom        456   13    CT    "i-Pr Benzene -CHMe2"          6    12.011    4
+atom        446   13    CT    "HIS CB"                       6    12.011    4
+atom        440   13    CT    "Sulfoxide -CH2-SO-R"          6    12.011    4
+atom        439   13    CT    "Sulfoxide CH3-SO-R"           6    12.011    4
+atom        433   13    CT    "t-Bu Ester -OCR3"             6    12.011    4
+atom        432   13    CT    "i-Pr Ester -OCHR2"            6    12.011    4
+atom        431   13    CT    "Et Ester -OCH2R"              6    12.011    4
+atom        427   13    CT    "N-Et Sulfonamide CH3-"        6    12.011    4
+atom        425   13    CT    "Sulfonamide N-CH2-R"          6    12.011    4
+atom        423   13    CT    "N-Me Sulfonamide CH3-"        6    12.011    4
+atom        417   13    CT    "Sulfonamide CH3-S"            6    12.011    4
+atom        409   13    CT    "Methyl Ester -OCH3"           6    12.011    4
+atom        405   13    CT    "Barbiturate C6(R2)"           6    12.011    4
+atom        402   13    CT    "Me BzPhosphonate CH3-P"       6    12.011    4
+atom         40   13    CT    "t-Butanol COH (UA)"           6    12.011    4
+atom        399   13    CT    "Bz MePhosphonate CH3-O"       6    12.011    4
+atom        396   13    CT    "Me MePhosphonate CH3-P"       6    12.011    4
+atom        394   13    CT    "Me MePhosphonate CH3-O"       6    12.011    4
+atom        389   13    CT    "Me Phosphate CH3-O"           6    12.011    4
+atom        384   13    CT    "DiMe Phosphate CH3-O"         6    12.011    4
+atom        373   13    CT    "Ethyl Anion CH3-CH2-"         6    12.011    4
+atom        371    6    C3    "Ethyl Anion CH3-CH2-"         6    12.011    4
+atom        367    6    C3    "Me Amine Anion CH3NH-"        6    12.011    4
+atom        360    6    C3    "Methoxide CH3O-"              6    12.011    4
+atom        357    6    C3    "Methyl Thiolate CH3S-"        6    12.011    4
+atom        340   47    CM    "Trifluorothymine CF3-"        6    12.011    4
+atom        334   13    CT    "1-Me-CytosineH+ CH3-"         6    12.011    4
+atom        318   13    CT    "1-Me-Cytosine CH3-"           6    12.011    4
+atom        316   13    CT    "1-Me-U & 1-Me-T CH3-"         6    12.011    4
+atom        314   13    CT    "9-Me A & 9-Me-G CH3-"         6    12.011    4
+atom        274   13    CT    "Thymine CH3-"                 6    12.011    4
+atom        251   13    CT    "Pr Guan -CH2- & ARG CG"       6    12.011    4
+atom        250   13    CT    "Et Guan -CH2- & ARG CD"       6    12.011    4
+atom        249   13    CT    "Et Guanidinium CH3-"          6    12.011    4
+atom        248   13    CT    "Me Guanidinium CH3-"          6    12.011    4
+atom        242   13    CT    "ALA Zwitterion CA"            6    12.011    4
+atom        241   13    CT    "GLY Zwitterion CA"            6    12.011    4
+atom        240   13    CT    "Ammonium CH3-NH2R+"           6    12.011    4
+atom        239   13    CT    "N-Terminal PRO CD"            6    12.011    4
+atom        238   13    CT    "N-Terminal PRO CA"            6    12.011    4
+atom        237   13    CT    "R3C-NH3+/N-Term AIB CA"       6    12.011    4
+atom        236   13    CT    "RCH2NH3+/N-Term ALA CA"       6    12.011    4
+atom        235   13    CT    "CH3NH3+/N-Term GLY CA"        6    12.011    4
+atom        234   13    CT    "Ammonium CH3-NH3+"            6    12.011    4
+atom        228   13    CT    "C-Terminal PRO CA"            6    12.011    4
+atom        227   13    CT    "C-Terminal AIB CA"            6    12.011    4
+atom        226   13    CT    "C-Terminal GLY CA"            6    12.011    4
+atom        225   13    CT    "C-Terminal ALA CA"            6    12.011    4
+atom        218   13    CT    "Carboxylate R3C-COO-"         6    12.011    4
+atom        217   13    CT    "Carboxylate R2CH-COO-"        6    12.011    4
+atom        216   13    CT    "Carboxylate RCH2-COO-"        6    12.011    4
+atom        215   13    CT    "Carboxylate CH3-COO-"         6    12.011    4
+atom        201   13    CT    "Imide C-CONHCO-"              6    12.011    4
+atom        200   13    CT    "Imide >CH-CONHCO-"            6    12.011    4
+atom        199   13    CT    "Imide -CH2-CONHCO-"           6    12.011    4
+atom        198   13    CT    "Imide CH3-CONHCO-"            6    12.011    4
+atom        188   13    CT    "Amide -NR-CHR2 & PRO CA"      6    12.011    4
+atom        187   13    CT    "Amide -NR-CH2R & PRO CD"      6    12.011    4
+atom        186   13    CT    "Amide -NH-CH2R"               6    12.011    4
+atom        185   13    CT    "Amide -NR-CH3"                6    12.011    4
+atom        184   13    CT    "Amide -NH-CH3"                6    12.011    4
+atom         18   13    CT    "Neopentane C (UA)"            6    12.011    4
+atom        172   13    CT    "Amide -NH-CR3"                6    12.011    4
+atom        171   13    CT    "Amide -NH-CHR2"               6    12.011    4
+atom        167   13    CT    "R3C-NH2 & AIB CA"             6    12.011    4
+atom        166   13    CT    "RCHR-NH2 & ALA CA"            6    12.011    4
+atom        165   13    CT    "RCH2-NH2 & GLY CA"            6    12.011    4
+atom        162   13    CT    "Benzyl Alcohol -CR2OH"        6    12.011    4
+atom        161   13    CT    "Benzyl Alcohol -CHROH"        6    12.011    4
+atom        160   13    CT    "Benzyl Alcohol -CH2OH"        6    12.011    4
+atom        159   13    CT    "Methanethiol CH3-SH"          6    12.011    4
+atom        158   13    CT    "Disulfide R3C-S-SR"           6    12.011    4
+atom        157   13    CT    "Disulfide R2CH-S-SR"          6    12.011    4
+atom        156   13    CT    "Disulfide RCH2-S-SR"          6    12.011    4
+atom        155   13    CT    "Disulfide CH3-S-SR"           6    12.011    4
+atom        154   13    CT    "Sulfide R3C-SR"               6    12.011    4
+atom        153   13    CT    "Sulfide R2CH-SR"              6    12.011    4
+atom        152   13    CT    "Sulfide RCH2-SR"              6    12.011    4
+atom        151   13    CT    "Methyl Sulfide CH3-SR"        6    12.011    4
+atom        150   13    CT    "Thiol C-SH"                   6    12.011    4
+atom        149   13    CT    "Thiol >CH-SH"                 6    12.011    4
+atom        148   13    CT    "Thiol -CH2-SH"                6    12.011    4
+atom        140   51    CO    "Hemiacetal RO-CR2-OH"         6    12.011    4
+atom        139   51    CO    "Acetal RO-CR2-OR"             6    12.011    4
+atom        137   51    CO    "Hemiacetal RO-CHR-OH"         6    12.011    4
+atom        135   51    CO    "Acetal RO-CHR-OR"             6    12.011    4
+atom        133   51    CO    "Hemiacetal RO-CH2-OH"         6    12.011    4
+atom        131   51    CO    "Acetal RO-CH2-OR"             6    12.011    4
+atom        126   13    CT    "t-Butyl Ether COR"            6    12.011    4
+atom        125   13    CT    "Isopropyl Ether >CHOR"        6    12.011    4
+atom        124   13    CT    "Ethyl Ether -CH2OR"           6    12.011    4
+atom        123   13    CT    "Methyl Ether CH3OR"           6    12.011    4
+atom        117   13    CT    "Diol & Triol -CR2OH"          6    12.011    4
+atom        116   13    CT    "Diol & Triol -CHROH"          6    12.011    4
+atom        115   13    CT    "Diol & Triol -CH2OH"          6    12.011    4
+atom        103   13    CT    "Trifluoroethanol CF3-"        6    12.011    4
+atom        102   13    CT    "Trifluoroethanol -CH2-"       6    12.011    4
+atom        101   13    CT    "Alcohol R3COH"                6    12.011    4
+atom        100   13    CT    "Alcohol R2CHOH"               6    12.011    4
