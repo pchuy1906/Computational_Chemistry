@@ -1,2 +1,0 @@
-CC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O
-CCCC

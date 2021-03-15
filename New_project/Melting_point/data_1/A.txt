@@ -1,6 +1,0 @@
-CO[N+](=O)[O-]
-CCO[N+](=O)[O-]
-C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
-C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])[N+](=O)[O-])O[N+](=O)[O-]
-CC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O
-C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-]
